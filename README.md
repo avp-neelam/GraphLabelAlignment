@@ -1,5 +1,7 @@
 # Graph Label Alignment
 
+Repo for "[Graph Label Alignment: A Diagnostic Atlas for Graph Classification](https://openreview.net/forum?id=fiy00bWoJN#discussion)", in **NeurIPS 2026**.
+
 Given graph classification dataset $(\mathcal{G},y_\mathcal{G})\in\mathcal{D}$ our process is straightforward:
 
 1. Compute Structural summary vector $S(\mathcal{G})$ which contains topological, spectral, and statistical information about $\mathcal{G}$
